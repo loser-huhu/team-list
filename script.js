@@ -35,10 +35,10 @@ const teamMembers = [
   {
     id: 5,
     name: "Huỳnh Minh Quân",
-    role: "UI/UX Designer",
-    bio: "Biến ý tưởng thành trải nghiệm người dùng tuyệt vời. Chuyên gia Figma và Adobe Creative Suite với đôi mắt thẩm mỹ sắc sảo.",
+    role: "Mobile Developer",
+    bio: "Lập trình viên mobile đam mê tạo ra những ứng dụng thân thiện và đẹp mắt. Thành thạo Flutter, Figma và quy trình phát triển hướng trải nghiệm người dùng.",
     image: "./assets/img/hinhminhquan.png",
-    portfolio: "#",
+    portfolio: "https://quanhocdev.github.io/GKWeb/",
   },
 ];
 
