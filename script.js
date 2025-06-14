@@ -37,7 +37,7 @@ const teamMembers = [
     name: "Huỳnh Minh Quân",
     role: "Mobile Developer",
     bio: "Lập trình viên mobile đam mê tạo ra những ứng dụng thân thiện và đẹp mắt. Thành thạo Flutter, Figma và quy trình phát triển hướng trải nghiệm người dùng.",
-    image: "./assets/img/hinhminhquan.png",
+    image: "./assets/img/quan.jpg",
     portfolio: "https://quanhocdev.github.io/GKWeb/",
   },
 ];
